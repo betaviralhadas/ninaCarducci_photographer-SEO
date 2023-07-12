@@ -39,7 +39,8 @@ body {
 }
 
 .social-link img {
-	width: 20px;
+	width: 17px;
+	height: 17px;
 }
 
 #about {
@@ -68,7 +69,8 @@ body {
 }
 
 .picture img {
-	width: 100%;
+	width: 300px;
+	height: 300px;
 
 }
 #about-me {
